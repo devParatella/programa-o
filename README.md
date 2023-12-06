@@ -1,2 +1,2 @@
-# programa-o
+# programas
 minha pasta de testes
